@@ -1,0 +1,6 @@
+[submodule "components/lcd"]
+	path = components/lcd
+	url = https://github.com/writemachine/esp32_lcd
+[submodule "components/lcd_dual"]
+	path = components/lcd_dual
+	url = https://github.com/writemachine/esp32_lcd_40x4
